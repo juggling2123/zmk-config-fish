@@ -107,7 +107,7 @@
             bindings = <
                         &kp P       &kp U       &kp Y       &kp COMMA           &kp J       &kp D       &kp H       &kp G       
 &kp Q       &mt LGUI I  &mt LCTRL O &mt RALT E  &mt LSHFT A &kp DOT             &kp K       &mt RSHFT T &mt RALT N  &mt RCTRL S &mt LGUI R  &kp W       
-            &kp Z       &kp X       &kp MINUS   &kp C                                       &kp M       &kp F       &kp B       &kp V       
+            &kp Z       &kp X       &kp MINUS   &kp W                                       &kp M       &kp F       &kp B       &kp V       
                                                 &lt 1 BSPC  &mt LCTRL SPACE     &lt 7 TAB   &lt 2 RET   
             >;
         };
@@ -134,7 +134,7 @@
             bindings = <
                         &kp P       &kp U       &kp Y       &kp DOT             &kp J       &kp D       &kp H       &kp G       
 &kp Q       &kp I       &mt LCTRL O &mt LALT E  &mt LSHFT A &kp COMMA           &kp K       &mt RSHFT T &mt RALT N  &mt RCTRL S &kp R       &kp W       
-            &kp Z       &kp X       &kp MINUS   &kp C                                       &kp M       &kp F       &kp B       &kp V       
+            &kp Z       &kp X       &kp MINUS   &kp W                                       &kp M       &kp F       &kp B       &kp V       
                                                 &lt 4 BSPC  &mt LGUI SPACE      &lt 7 TAB   &lt 5 RET   
             >;
         };
